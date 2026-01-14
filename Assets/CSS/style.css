@@ -1,0 +1,50 @@
+
+section{
+  padding-top: 70px; 
+}
+/* Timeline estilo vertical */
+.timeline {
+  list-style: none;
+  padding: 0;
+  position: relative;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #0d6efd; /* azul Bootstrap */
+}
+.timeline li {
+  position: relative;
+  margin: 20px 0;
+  padding-left: 50px;
+}
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: 12px;
+  top: 5px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #0d6efd;
+}
+.timeline h5 {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.timeline p {
+  margin: 0;
+}
+
+/* Hover effects para los botones sociales */
+.social-btn {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.social-btn:hover {
+  transform: scale(1.15);
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
