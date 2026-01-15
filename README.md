@@ -36,7 +36,17 @@ El objetivo es desarrollar un **Currículum Vitae en formato web**, utilizando *
 
 📁 Proyecto-CV ┣ 📂 Assets ┃ ┣ 📂 CSS ┃ ┃ ┗ style.css ┃ ┣ 📂 JS ┃ ┃ ┗ index.js ┃ ┗ 📂 Img ┃    ┗ (imágenes del CV) ┣ index.html ┗ README.md
 
+## 📧 Contacto
+
+- **Nombre:** Teresa Olivares Rueda  
+- **Email:** [teresaolivaresrueda@gmail.com](mailto:teresaolivaresrueda@gmail.com)  
+- **GitHub:** [tutu-tere](https://github.com/tutu-tere)  
+- **YouTube:** [Canal de Teresa](https://youtube.com/@tereolivares4204)
 
 ---
 
-## 📂 Estructura del proyecto
+## 📜 Licencia
+
+© 2026 Todos los derechos reservados - Teresa Olivares Rueda
+
+
